@@ -90,4 +90,3 @@ Run the `Mission_planner.ipynb` file.
 > **Note:** Tail collective is automatically calculated by the code.
 
 ```
-```
