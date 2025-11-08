@@ -87,6 +87,4 @@ Run the `Mission_planner.ipynb` file.
 3. Define the fuel weight to carry.
 4. Adjust rotor collective to achieve liftoff.
 
-> **Note:** Tail collective is automatically calculated by the code.
-
-```
+> **Note:** Tail collective and Main collective are automatically calculated by the code.
